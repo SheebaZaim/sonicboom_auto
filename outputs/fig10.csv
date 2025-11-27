@@ -1,0 +1,20 @@
+Figure_Ground_Comparison,0,0,Flight_test_ground,Comparison of measured and predicted waveforms on ground
+Figure_Ground_Comparison,0,0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.002,20,Flight_test_ground,
+Figure_Ground_Comparison,0.002,22,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.005,25,Flight_test_ground,Peak
+Figure_Ground_Comparison,0.005,28,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.010,10,Flight_test_ground,
+Figure_Ground_Comparison,0.010,12,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.015,0,Flight_test_ground,
+Figure_Ground_Comparison,0.015,0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.020,-10,Flight_test_ground,
+Figure_Ground_Comparison,0.020,-8,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.025,-30,Flight_test_ground,
+Figure_Ground_Comparison,0.025,-28,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.030,-40,Flight_test_ground,Minimum
+Figure_Ground_Comparison,0.030,-38,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.035,0,Flight_test_ground,
+Figure_Ground_Comparison,0.035,2,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.040,0,Flight_test_ground,
+Figure_Ground_Comparison,0.040,0,Prediction_no_turbulence,
