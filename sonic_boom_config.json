@@ -1,0 +1,39 @@
+{
+    "spatial_scheme": "WENO",
+    "use_adaptive_stepping": true,
+    "tvd_limiter": "superbee"
+}
+
+
+
+{
+  "test_case": "jaxa_wing_body",
+  "n_points_waveform": 10000,
+  "max_iterations": 1000,
+  "convergence_tol": 1e-06,
+  "use_adaptive_stepping": true,
+  "min_step_size": 0.001,
+  "max_step_size": 0.05,
+  "step_size_safety_factor": 0.9,
+  "spatial_scheme": "TVD",
+  "tvd_limiter": "minmod",
+  "altitude_start": 15760.0,
+  "altitude_end": 0.0,
+  "mach_number": 1.42,
+  "turbulence_intensity": 0.1,
+  "outer_scale": 40.0,
+  "sigma_wind": 0.6,
+  "sigma_temp": 0.1,
+  "output_plots": true,
+  "output_csv": true,
+  "verbose": true,
+  
+  "_comments": {
+    "spatial_scheme_options": ["basic", "TVD", "WENO"],
+    "tvd_limiter_options": ["minmod", "vanLeer", "superbee"],
+    "test_case_options": ["jaxa_wing_body", "dsend", "axiebody"]
+  }
+
+  
+}
+

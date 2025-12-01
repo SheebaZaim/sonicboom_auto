@@ -1,0 +1,7 @@
+
+{
+    "spatial_scheme": "WENO",
+    "use_adaptive_stepping": true,
+    "tvd_limiter": "superbee"
+}
+

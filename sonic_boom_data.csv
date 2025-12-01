@@ -1,0 +1,179 @@
+Dataset,X_Value,Y_Value,Series,Notes
+# TEST CASE 1: JAXA WING BODY - Figure 4.4 Near-field signature (r/L=1 JWB)
+Figure_4.4_Near_field,0,100000,dp_p,Start
+Figure_4.4_Near_field,2,150000,dp_p,
+Figure_4.4_Near_field,5,250000,dp_p,Rising
+Figure_4.4_Near_field,8,350000,dp_p,
+Figure_4.4_Near_field,11,450000,dp_p,
+Figure_4.4_Near_field,14,550000,dp_p,
+Figure_4.4_Near_field,17,650000,dp_p,Approaching peak
+Figure_4.4_Near_field,20,700000,dp_p,Peak region
+Figure_4.4_Near_field,22,680000,dp_p,
+Figure_4.4_Near_field,24,580000,dp_p,Declining
+Figure_4.4_Near_field,26,450000,dp_p,
+Figure_4.4_Near_field,28,250000,dp_p,
+Figure_4.4_Near_field,29,100000,dp_p,
+Figure_4.4_Near_field,30,50000,dp_p,Near zero
+Figure_4.4_Near_field,31,150000,dp_p,
+Figure_4.4_Near_field,32,250000,dp_p,
+Figure_4.4_Near_field,33,400000,dp_p,
+Figure_4.4_Near_field,33.5,650000,dp_p,Sharp spike
+Figure_4.4_Near_field,34,700000,dp_p,Spike peak
+Figure_4.4_Near_field,34.5,450000,dp_p,
+Figure_4.4_Near_field,35,200000,dp_p,
+Figure_4.4_Near_field,35.5,300000,dp_p,
+Figure_4.4_Near_field,36,250000,dp_p,Oscillation
+Figure_4.4_Near_field,36.5,150000,dp_p,
+Figure_4.4_Near_field,37,100000,dp_p,
+Figure_4.4_Near_field,38,50000,dp_p,Settling
+Figure_4.4_Near_field,40,20000,dp_p,
+Figure_4.4_Near_field,43,100000,dp_p,
+Figure_4.4_Near_field,46,180000,dp_p,Final rise
+Figure_4.4_Near_field,50,200000,dp_p,
+Figure_4.4_Near_field,55,200000,dp_p,
+Figure_4.4_Near_field,60,200000,dp_p,End plateau
+
+# TEST CASE 1: Figure 4.5 Ground signatures (0 deg azimuth)
+Figure_4.5_Ground,0,0.02,vBOOM,Start
+Figure_4.5_Ground,5,0.15,vBOOM,
+Figure_4.5_Ground,10,0.38,vBOOM,Peak approaching
+Figure_4.5_Ground,12,0.40,vBOOM,Peak
+Figure_4.5_Ground,15,0.35,vBOOM,
+Figure_4.5_Ground,20,0.22,vBOOM,Declining
+Figure_4.5_Ground,25,0.10,vBOOM,
+Figure_4.5_Ground,30,0.00,vBOOM,Zero crossing
+Figure_4.5_Ground,35,-0.08,vBOOM,
+Figure_4.5_Ground,40,-0.15,vBOOM,Negative region
+Figure_4.5_Ground,45,-0.18,vBOOM,
+Figure_4.5_Ground,50,-0.20,vBOOM,Min region
+Figure_4.5_Ground,55,-0.18,vBOOM,
+Figure_4.5_Ground,60,-0.10,vBOOM,Recovery
+Figure_4.5_Ground,70,-0.02,vBOOM,
+Figure_4.5_Ground,80,0.08,vBOOM,
+Figure_4.5_Ground,90,0.10,vBOOM,Secondary peak
+Figure_4.5_Ground,100,0.08,vBOOM,
+Figure_4.5_Ground,110,0.05,vBOOM,
+Figure_4.5_Ground,130,0.02,vBOOM,
+Figure_4.5_Ground,150,0.00,vBOOM,End
+Figure_4.5_Ground,0,0.02,muBOOM,Start
+Figure_4.5_Ground,5,0.16,muBOOM,
+Figure_4.5_Ground,10,0.39,muBOOM,Peak region
+Figure_4.5_Ground,12,0.41,muBOOM,Peak
+Figure_4.5_Ground,15,0.36,muBOOM,
+Figure_4.5_Ground,20,0.23,muBOOM,
+Figure_4.5_Ground,25,0.11,muBOOM,
+Figure_4.5_Ground,30,-0.02,muBOOM,Zero crossing
+Figure_4.5_Ground,35,-0.10,muBOOM,
+Figure_4.5_Ground,40,-0.17,muBOOM,
+Figure_4.5_Ground,45,-0.22,muBOOM,
+Figure_4.5_Ground,50,-0.25,muBOOM,Minimum
+Figure_4.5_Ground,55,-0.22,muBOOM,
+Figure_4.5_Ground,60,-0.12,muBOOM,
+Figure_4.5_Ground,70,-0.04,muBOOM,
+Figure_4.5_Ground,80,0.06,muBOOM,
+Figure_4.5_Ground,90,0.08,muBOOM,
+Figure_4.5_Ground,100,0.06,muBOOM,
+Figure_4.5_Ground,110,0.03,muBOOM,
+Figure_4.5_Ground,130,0.01,muBOOM,
+Figure_4.5_Ground,150,0.00,muBOOM,End
+
+# TEST CASE 2: Figure 8b - Far-field at top of atmospheric boundary layer
+Figure_b_Far_field,0.000,0.5,Flight_test,Initial
+Figure_b_Far_field,0.001,5.0,Flight_test,Rapid rise
+Figure_b_Far_field,0.0015,8.0,Flight_test,
+Figure_b_Far_field,0.002,10.5,Flight_test,Plateau start
+Figure_b_Far_field,0.003,11.0,Flight_test,
+Figure_b_Far_field,0.005,11.2,Flight_test,
+Figure_b_Far_field,0.008,11.0,Flight_test,Plateau
+Figure_b_Far_field,0.012,10.8,Flight_test,
+Figure_b_Far_field,0.016,10.5,Flight_test,
+Figure_b_Far_field,0.020,8.0,Flight_test,Decline start
+Figure_b_Far_field,0.022,5.0,Flight_test,
+Figure_b_Far_field,0.024,2.0,Flight_test,
+Figure_b_Far_field,0.026,0.0,Flight_test,Zero cross
+Figure_b_Far_field,0.028,-5.0,Flight_test,
+Figure_b_Far_field,0.030,-12.0,Flight_test,
+Figure_b_Far_field,0.0315,-16.0,Flight_test,Deep minimum
+Figure_b_Far_field,0.032,-18.5,Flight_test,Absolute min
+Figure_b_Far_field,0.0325,-19.0,Flight_test,
+Figure_b_Far_field,0.033,-18.0,Flight_test,
+Figure_b_Far_field,0.034,-12.0,Flight_test,Recovery
+Figure_b_Far_field,0.035,-5.0,Flight_test,
+Figure_b_Far_field,0.036,0.0,Flight_test,
+Figure_b_Far_field,0.037,2.0,Flight_test,
+Figure_b_Far_field,0.038,1.5,Flight_test,
+Figure_b_Far_field,0.040,1.0,Flight_test,
+Figure_b_Far_field,0.042,0.5,Flight_test,
+Figure_b_Far_field,0.045,0.2,Flight_test,End
+
+# R=0.5L prediction
+Figure_b_Far_field,0.000,0.5,R_0.5L,
+Figure_b_Far_field,0.002,10.2,R_0.5L,
+Figure_b_Far_field,0.010,11.0,R_0.5L,
+Figure_b_Far_field,0.020,8.5,R_0.5L,
+Figure_b_Far_field,0.030,-13.0,R_0.5L,
+Figure_b_Far_field,0.032,-19.5,R_0.5L,
+Figure_b_Far_field,0.035,-4.0,R_0.5L,
+Figure_b_Far_field,0.040,1.0,R_0.5L,
+
+# R=1.0L prediction  
+Figure_b_Far_field,0.000,0.5,R_1.0L,
+Figure_b_Far_field,0.002,10.5,R_1.0L,
+Figure_b_Far_field,0.010,11.0,R_1.0L,
+Figure_b_Far_field,0.020,8.2,R_1.0L,
+Figure_b_Far_field,0.030,-12.5,R_1.0L,
+Figure_b_Far_field,0.032,-19.0,R_1.0L,
+Figure_b_Far_field,0.035,-4.5,R_1.0L,
+Figure_b_Far_field,0.040,0.8,R_1.0L,
+
+# TEST CASE 2: Figure 10 Ground comparison (left panel)
+Figure_Ground_Comparison,0.000,0.5,Flight_test_ground,Start
+Figure_Ground_Comparison,0.001,10.0,Flight_test_ground,Sharp rise
+Figure_Ground_Comparison,0.002,18.0,Flight_test_ground,
+Figure_Ground_Comparison,0.0025,22.0,Flight_test_ground,
+Figure_Ground_Comparison,0.003,24.5,Flight_test_ground,
+Figure_Ground_Comparison,0.004,26.0,Flight_test_ground,Peak region
+Figure_Ground_Comparison,0.005,25.5,Flight_test_ground,
+Figure_Ground_Comparison,0.006,23.0,Flight_test_ground,
+Figure_Ground_Comparison,0.008,18.0,Flight_test_ground,Decline
+Figure_Ground_Comparison,0.010,12.0,Flight_test_ground,
+Figure_Ground_Comparison,0.012,8.0,Flight_test_ground,
+Figure_Ground_Comparison,0.015,2.0,Flight_test_ground,
+Figure_Ground_Comparison,0.017,0.0,Flight_test_ground,Zero cross
+Figure_Ground_Comparison,0.019,-5.0,Flight_test_ground,
+Figure_Ground_Comparison,0.021,-10.0,Flight_test_ground,
+Figure_Ground_Comparison,0.023,-18.0,Flight_test_ground,
+Figure_Ground_Comparison,0.025,-28.0,Flight_test_ground,Deep drop
+Figure_Ground_Comparison,0.027,-35.0,Flight_test_ground,
+Figure_Ground_Comparison,0.029,-40.0,Flight_test_ground,
+Figure_Ground_Comparison,0.030,-42.0,Flight_test_ground,Minimum
+Figure_Ground_Comparison,0.031,-38.0,Flight_test_ground,
+Figure_Ground_Comparison,0.032,-30.0,Flight_test_ground,Recovery
+Figure_Ground_Comparison,0.033,-20.0,Flight_test_ground,
+Figure_Ground_Comparison,0.034,-10.0,Flight_test_ground,
+Figure_Ground_Comparison,0.035,-2.0,Flight_test_ground,
+Figure_Ground_Comparison,0.036,2.0,Flight_test_ground,
+Figure_Ground_Comparison,0.037,1.5,Flight_test_ground,
+Figure_Ground_Comparison,0.039,0.8,Flight_test_ground,
+Figure_Ground_Comparison,0.042,0.2,Flight_test_ground,End
+
+# Prediction without turbulence
+Figure_Ground_Comparison,0.000,0.5,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.001,12.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.002,20.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.003,25.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.005,28.0,Prediction_no_turbulence,Peak
+Figure_Ground_Comparison,0.008,20.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.010,14.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.015,4.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.017,0.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.020,-8.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.023,-18.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.025,-28.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.028,-36.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.030,-38.0,Prediction_no_turbulence,Min
+Figure_Ground_Comparison,0.032,-32.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.034,-15.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.035,0.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.037,2.0,Prediction_no_turbulence,
+Figure_Ground_Comparison,0.040,0.5,Prediction_no_turbulence,End
